@@ -1,0 +1,13 @@
+# app.py 를 실행하는 데 최소로 필요한 라이브러리
+streamlit
+
+# PDF → DataFrame 처리
+pdfplumber
+numpy
+
+# DataFrame 조작 및 엑셀 입출력
+pandas
+openpyxl
+
+# PDF 수정
+PyMuPDF
